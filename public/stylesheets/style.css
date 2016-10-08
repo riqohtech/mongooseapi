@@ -1,0 +1,61 @@
+.review {padding-bottom: 5px;}
+.panel-body.review-container {padding-top: 0;}
+.review-header {margin-bottom: 10px;}
+.reviewAuthor {margin: 0 5px;}
+.reviewTimestamp {color: #ccc;}
+
+.label-facility {margin-right: 2px}
+.rating-stars {margin-left: 3px;}
+#filter {margin-left: 4px;}
+.sensor-gauge-charts {
+	height: 150px;
+}
+.panel-heading h2 {
+	text-align: center;
+}
+.sensor-graphs {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 300px;
+}
+.settings-modal {
+	float: right;
+}
+.bg-1 {
+    background-color: #00b33c; 
+    color: #ffffff; /* White */
+}
+.bg-4 {
+    background-color: #00b33c;
+    color: #ffffff;
+}
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #00b33c;
+    border: 0;
+    font-size: 12px !important;
+    letter-spacing: 4px;
+    opacity:0.9;
+}
+.modal-content {
+	  background-color: #00b33c;
+    color: #ffffff;
+}
+.text-muted {
+
+    color: #660033;
+}
+
+.form-login {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.btn-color {
+    background-color: #00b33c;
+    color: #ffffff;
+}
